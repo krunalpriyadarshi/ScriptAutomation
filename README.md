@@ -6,7 +6,7 @@ This script automates the process of creating a folder and a Java file for solvi
 
 1. **Run the Script**: 
    - Open Command Prompt (CMD) and navigate to the directory containing the script file.
-   - Run the script by typing `create_leetcode_solution.cmd` and pressing Enter.
+   - Run the script by typing `LeetCodeHelper_ai.cmd` and pressing Enter.
    - Follow the prompts to enter the folder name.
 
 2. **Generated Files**:
